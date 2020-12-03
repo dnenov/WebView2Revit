@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command TestWV2</Text>
+    <Description>Some description for TestWV2</Description>
+    <Assembly>TestWV2.dll</Assembly>
+    <FullClassName>TestWV2.Command</FullClassName>
+    <ClientId>c74f7da7-ad1f-4057-bb46-64ddfeb11752</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application TestWV2</Name>
+    <Assembly>TestWV2.dll</Assembly>
+    <FullClassName>TestWV2.App</FullClassName>
+    <ClientId>5cad561b-c94d-45ae-81a6-7adacc067a0e</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

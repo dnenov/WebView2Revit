@@ -1,0 +1,17 @@
+C:\Users\didon\source\repos\TestWV2\TestWV2\bin\Debug\x86\WebView2Loader.dll
+C:\Users\didon\source\repos\TestWV2\TestWV2\bin\Debug\x64\WebView2Loader.dll
+C:\Users\didon\source\repos\TestWV2\TestWV2\bin\Debug\arm64\WebView2Loader.dll
+C:\Users\didon\source\repos\TestWV2\TestWV2\bin\Debug\TestWV2.dll
+C:\Users\didon\source\repos\TestWV2\TestWV2\bin\Debug\TestWV2.pdb
+C:\Users\didon\source\repos\TestWV2\TestWV2\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\didon\source\repos\TestWV2\TestWV2\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\didon\source\repos\TestWV2\TestWV2\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\didon\source\repos\TestWV2\TestWV2\obj\Debug\Page.g.cs
+C:\Users\didon\source\repos\TestWV2\TestWV2\obj\Debug\TestWV2_MarkupCompile.cache
+C:\Users\didon\source\repos\TestWV2\TestWV2\obj\Debug\TestWV2_MarkupCompile.lref
+C:\Users\didon\source\repos\TestWV2\TestWV2\obj\Debug\Page.baml
+C:\Users\didon\source\repos\TestWV2\TestWV2\obj\Debug\TestWV2.g.resources
+C:\Users\didon\source\repos\TestWV2\TestWV2\obj\Debug\TestWV2.csproj.CopyComplete
+C:\Users\didon\source\repos\TestWV2\TestWV2\obj\Debug\TestWV2.dll
+C:\Users\didon\source\repos\TestWV2\TestWV2\obj\Debug\TestWV2.pdb
+C:\Users\didon\source\repos\TestWV2\TestWV2\bin\Debug\WebView2Loader.dll
