@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    ".NETFramework,Version=v4.7.2": {
+    ".NETFramework,Version=v4.8": {
       "Microsoft.Web.WebView2/1.0.674-prerelease": {
         "type": "package",
         "compile": {
@@ -33,7 +33,7 @@
         }
       }
     },
-    ".NETFramework,Version=v4.7.2/win": {
+    ".NETFramework,Version=v4.8/win": {
       "Microsoft.Web.WebView2/1.0.674-prerelease": {
         "type": "package",
         "compile": {
@@ -51,7 +51,7 @@
         }
       }
     },
-    ".NETFramework,Version=v4.7.2/win-x64": {
+    ".NETFramework,Version=v4.8/win-x64": {
       "Microsoft.Web.WebView2/1.0.674-prerelease": {
         "type": "package",
         "compile": {
@@ -72,7 +72,7 @@
         }
       }
     },
-    ".NETFramework,Version=v4.7.2/win-x86": {
+    ".NETFramework,Version=v4.8/win-x86": {
       "Microsoft.Web.WebView2/1.0.674-prerelease": {
         "type": "package",
         "compile": {
@@ -149,7 +149,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    ".NETFramework,Version=v4.7.2": [
+    ".NETFramework,Version=v4.8": [
       "Microsoft.Web.WebView2 >= 1.0.674-prerelease"
     ]
   },
@@ -171,20 +171,20 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net472"
+        "net48"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "http://www.nuget.org/api/v2/": {}
       },
       "frameworks": {
-        "net472": {
+        "net48": {
           "projectReferences": {}
         }
       }
     },
     "frameworks": {
-      "net472": {
+      "net48": {
         "dependencies": {
           "Microsoft.Web.WebView2": {
             "target": "Package",
